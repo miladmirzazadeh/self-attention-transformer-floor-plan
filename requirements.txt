@@ -1,0 +1,7 @@
+# data prep (local): generator + DXF parsing
+ezdxf>=1.4
+numpy>=1.26
+shapely>=2.0
+Pillow>=10.0
+# training (Kaggle/RunPod): torch is preinstalled on Kaggle GPU
+torch>=2.0

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+prim_ds/
+*.tar.gz
+*.dxf
+runs/
